@@ -1,3 +1,14 @@
+/**
+ * @file mcp.h
+ * @author Erwin lejeune (erwin.lejeune15@gmail.com)
+ * @brief Header file for API
+ * @version 0.1
+ * @date 2020-01-12
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
+
 #ifndef mcph
 #define mcph
 

@@ -1,3 +1,13 @@
+/**
+ * @file main.cpp
+ * @author Erwin lejeune (erwin.lejeune15@gmail.com)
+ * @brief Abstraction layers for a SPI driver
+ * @version 0.1
+ * @date 2020-01-12
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
 
 #include "stm32f3xx.h"
 #include "Adafruit_GFX.h"

@@ -1,3 +1,14 @@
+/**
+ * @file mcp.cpp
+ * @author Erwin lejeune (erwin.lejeune15@gmail.com)
+ * @brief API class for the SPI driver
+ * @version 0.1
+ * @date 2020-01-12
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
+
 #include "mcp.h"
 
 mcp23s17::mcp23s17() {}
